@@ -1,4 +1,4 @@
-👋 Hi, I'm Ian Jake!
+##👋 Hi, I'm Ian Jake!
 
 💻 Aspiring Professional Developer
 🎓 BSIS / ACT Student
@@ -7,7 +7,7 @@
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently working on personal programming projects
 - 🌱 Learning more about Web Development & Software Development
@@ -17,7 +17,7 @@
 
 ---
 
-🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
@@ -35,7 +35,7 @@
 
 ---
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ianjake-png&theme=tokyonight&hide_border=true" />
@@ -43,7 +43,7 @@
 
 ---
 
-🌐 Social
+## 🌐 Social
 
 <p align="left">
   <a href="https://www.facebook.com/ian.jake.1806">
@@ -75,6 +75,9 @@
 </p>
 
 ---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ⭐ Thanks for visiting my profile!
 
