@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ian Jake!
 
-💻 Aspiring Professional Developer
+💻 Aspiring Professional Developer<br>
 🎓 BSIS / ACT Student
 🎮 Mobile Legends Player
 🌱 Currently learning Java, Python, HTML, CSS & JavaScript
