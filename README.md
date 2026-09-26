@@ -62,17 +62,9 @@
 
 ---
 
-🎮 Fun Fact
+### 🎮 Fun Fact
 
 🎮 ML only, walay bisyo 😎
-
----
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ianjake-png/Ianjake-png/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
