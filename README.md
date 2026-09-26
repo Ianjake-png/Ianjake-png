@@ -1,7 +1,7 @@
 👋 Hi, I'm Ian Jake!
 
 💻 Aspiring Professional Developer
-🎓 IT / ACT Student
+🎓 BSIS / ACT Student
 🎮 Mobile Legends Player
 🌱 Currently learning Java, Python, HTML, CSS & JavaScript
 
@@ -23,12 +23,13 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
 </p>---
 
-📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ianjake-png&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ianjake-png&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianjake-png&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)---
 
 🔥 GitHub Streak
 
