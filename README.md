@@ -8,7 +8,7 @@
 ---
 
 # 💫 About Me:
-🔭 Currently working on personal programming projects<br>🌱 Learning more about Web Development & Software Development<br>💡 Interested in AI, websites, games, and technology<br>🎮 Gaming enthusiast<br>🎯 Goal: Become a Professional Developer
+🔭 Currently working 2D animation projects<br>🌱 Learning more about Web Development & Software Development<br>💡 Interested in AI, websites, games, and technology<br>🎮 Gaming enthusiast<br>🎯 Goal: Become a Professional Developer
 
 
 ## 🌐 Socials:
