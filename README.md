@@ -1,87 +1,72 @@
-👋 Hi, I'm Ian Jake Sumaylo
+👋 Hi, I'm Ian Jake!
 
 💻 Aspiring Professional Developer
-
-«🚀 Learning code, building projects, and improving every day.»
-
----
-
-🧑‍💻 About Me
-
-- 🎓 IT / ACT Student
-- 💻 Currently learning Java, Python, HTML, CSS & JavaScript
-- 🎮 Gamer who enjoys Mobile Legends & Minecraft
-- 🌱 Always learning something new
-- 🚀 Goal: Become a Professional Developer
+🎓 IT / ACT Student
+🎮 Mobile Legends Player
+🌱 Currently learning Java, Python, HTML, CSS & JavaScript
 
 ---
 
-⚡ Tech Stack
+🚀 About Me
 
-Languages
-
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🔭 Currently working on personal programming projects
+- 🌱 Learning more about Web Development & Software Development
+- 💡 Interested in AI, websites, games, and technology
+- 🎮 Gaming enthusiast
+- 🎯 Goal: Become a Professional Developer
 
 ---
 
-🚀 My Goal
+🛠️ Skills & Technologies
 
-LEARN
-  ↓
-BUILD
-  ↓
-PRACTICE
-  ↓
-IMPROVE
-  ↓
-BECOME A PROFESSIONAL DEVELOPER 🚀
-
----
-
-🎮 Beyond Coding
-
-🎮 Mobile Legends
-⛏️ Minecraft
-🎬 Watching Shows
-🎵 Listening to Music
-
----
-
-🌐 Connect With Me
-
-📘 Facebook: Ian Jake
-🎵 TikTok: @im2dy
-👽 Reddit: u/Zyth_0
-▶️ YouTube: @im2dy
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
+</p>---
 
 📊 GitHub Stats
 
-"Ian Jake's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Ianjake-png&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ianjake-png&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianjake-png&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>---
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Ianjake-png&layout=compact&theme=tokyonight&hide_border=true)
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ianjake-png&theme=tokyonight&hide_border=true" />
+</p>---
+
+🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.facebook.com/ian.jake.1806">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@im2dy">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/Zyth_0">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@im2dy">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>---
+
+🎮 Fun Fact
+
+🎮 ML only, walay bisyo 😎
 
 ---
 
-🔥 Contribution Streak
+🐍 Contribution Snake
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=Ianjake-png&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ianjake-png/Ianjake-png/output/github-contribution-grid-snake.svg" />
+</p>---
 
----
+⭐ Thanks for visiting my profile!
 
-💙 Thanks for visiting my profile!
-
-⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  <b>Keep learning. Keep coding. Keep building. 🚀</b>
+</p>
