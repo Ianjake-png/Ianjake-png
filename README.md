@@ -3,6 +3,7 @@
 💻 Aspiring Professional 2D animator & Developer<br>
 🎓 BSIS / ACT Student<br>
 🎮 Mobile Legends Player<br>
+📍 From Pob. B Midsalip ZDS Philippines<br>
 🌱 Currently learning Java, Python, HTML, CSS & JavaScript
 
 ---
