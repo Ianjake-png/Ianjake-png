@@ -21,7 +21,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
-</p>---
+</p>
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -29,15 +31,19 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)---
+![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ianjake-png&theme=tokyonight&hide_border=true" />
-</p>---
+</p>
 
-🌐 Connect With Me
+---
+
+🌐 Social
 
 <p align="left">
   <a href="https://www.facebook.com/ian.jake.1806">
@@ -52,7 +58,9 @@
   <a href="https://youtube.com/@im2dy">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-</p>---
+</p>
+
+---
 
 🎮 Fun Fact
 
@@ -64,7 +72,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ianjake-png/Ianjake-png/output/github-contribution-grid-snake.svg" />
-</p>---
+</p>
+
+---
 
 ⭐ Thanks for visiting my profile!
 
