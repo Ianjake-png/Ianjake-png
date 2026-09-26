@@ -7,39 +7,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working on personal programming projects
-- 🌱 Learning more about Web Development & Software Development
-- 💡 Interested in AI, websites, games, and technology
-- 🎮 Gaming enthusiast
-- 🎯 Goal: Become a Professional Developer
-
----
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ianjake-png&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ianjake-png&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
