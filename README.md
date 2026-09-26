@@ -1,4 +1,4 @@
-##👋 Hi, I'm Ian Jake!
+## 👋 Hi, I'm Ian Jake!
 
 💻 Aspiring Professional Developer
 🎓 BSIS / ACT Student
