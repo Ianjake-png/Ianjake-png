@@ -5,15 +5,17 @@
 
 <div align="right" height="150"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
 
-
+</div>
+<div align="left">
 💫 About Me
 
 Name: Ian Jake A. Sumaylo  
 Role: Aspiring 2D Animator & Developer  
 Education: BSIS / ACT Student  
 Location: Midsalip, Zamboanga del Sur, Philippines
-
 </div>
+
+
 
 --- 
 
