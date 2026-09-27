@@ -1,4 +1,4 @@
-## <div align="center"> 👋 Hi, I'm Ian Jake!
+# <div align="center"> 👋 Hi, I'm Ian Jake!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br>
 <div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"></div>
@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-name: Ian Jake A. Sumaylo  
-role: Aspiring 2D Animator & Developer  
-education: BSIS / ACT Student  
-location: Midsalip, Zamboanga del Sur, Philippines  
+Name: Ian Jake A. Sumaylo  
+Role: Aspiring 2D Animator & Developer  
+Education: BSIS / ACT Student  
+Location: Midsalip, Zamboanga del Sur, Philippines  
 
 currently:
   - 🎨 Working on 2D animation projects
