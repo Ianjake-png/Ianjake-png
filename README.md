@@ -87,7 +87,7 @@ Learning • Drawing • Animating • Improving
 
 ## 🎮 Gamer Mode: ON
 
-<div align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">⚔️ Mobile Legends Player
+<div align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">⚔️ Mobile Legends Player
 
 Play • Learn • Improve • Repeat
 
@@ -97,7 +97,9 @@ Play • Learn • Improve • Repeat
 
 ### ✍️ Random Dev Quote
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>---
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
+
+---
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Ianjake-png&icon=0&color=5"><br><br>
 
