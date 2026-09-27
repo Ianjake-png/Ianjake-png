@@ -1,7 +1,7 @@
 # <div align="center"> 👋 Hi, I'm Ian Jake!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br>
-<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"></div>
+<div align="right"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"></div>
 </div>
 
 ---
