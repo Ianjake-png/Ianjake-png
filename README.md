@@ -3,27 +3,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br></div>
 
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
+</div>
 
-## 💫 About Me
+<h2>💫 About Me</h2>
 
-**Name:** Ian Jake A. Sumaylo  
-**Role:** Aspiring 2D Animator & Developer  
-**Education:** BSIS / ACT Student  
-**Address:** Midsalip, ZDS, Philippines
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
-
-</td>
-</tr>
-</table>
-
+<p align="left">
+<b>Name:</b> Ian Jake A. Sumaylo<br>
+<b>Role:</b> Aspiring 2D Animator & Developer<br>
+<b>Education:</b> BSIS / ACT Student<br>
+<b>Address:</b> Midsalip, ZDS, Philippines
+</p>
 
 --- 
 
