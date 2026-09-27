@@ -2,12 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br></div>
 
-
-<div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
-</div>
-
-<div align="left">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
 
 ## 💫 About Me
 
@@ -16,8 +11,7 @@
 **Education:** BSIS / ACT Student  
 **Address:** Midsalip, ZDS, Philippines
 
-</div>
-
+<br clear="right">
 --- 
 
 currently:
