@@ -1,49 +1,121 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## <div align="center"> 👋 Hi, I'm Ian Jake!
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ianjake-png /Ianjake-png /stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ianjake-png /Ianjake-png /languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF¢er=true&vCenter=true&width=700&lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br>
+<div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"></div>
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 💫 About Me
 
-###
+name: Ian Jake A. Sumaylo
+role: Aspiring 2D Animator & Developer
+education: BSIS / ACT Student
+location: Midsalip, Zamboanga del Sur, Philippines
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+currently:
+  - 🎨 Working on 2D animation projects
+  - 💻 Learning Web Development
+  - ☕ Learning Software Development
+  - 🤖 Exploring AI
+  - 🎮 Creating and exploring games
+
+goal: Become a Professional Developer 🚀
+
+---
+
+## 🧑‍💻 What I'm Learning
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,java,python"></p><p align="center">
+💻 Web Development   •  
+☕ Java   •  
+🐍 Python   •  
+🎨 2D Animation   •  
+🤖 AI   •  
+🎮 Game Development
+
+</p>
+
+---
+
+## 🎨 2D Animation
+
+<div align="center"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
+
+🎬 Animator in Progress...
+
+Learning • Drawing • Animating • Improving
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🌐 Connect With Me
+
+<div align="center"><a href="https://www.facebook.com/ian.jake.1806">
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a><a href="https://reddit.com/user/Zyth_0">
+<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white">
+</a><a href="https://tiktok.com/@im2dy">
+<img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+</a><a href="https://youtube.com/@UCO2j_RH6YqgXVNasxALWRVA">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+</a><a href="mailto:ianjakesumaylo2@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a></div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,java,python"><br><br>
+
+<img src="https://img.shields.io/badge/Currently%20Learning-Web%20Development-00F7FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Currently%20Learning-Software%20Development-9B59B6?style=for-the-badge"></div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.shion.dev/api?username=Ianjake-png&theme=neon&hide_border=false&include_all_commits=false&count_private=false"><br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Ianjake-png&theme=neon&hide_border=false"><br><br>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🎮 Gamer Mode: ON
+
+<div align="center"><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300">
+
+⚔️ Mobile Legends Player
+
+Play • Learn • Improve • Repeat
+
 </div>
 
-###
+---
 
-<br clear="both">
+### ✍️ Random Dev Quote
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Ianjake-png /Ianjake-png /snake-output/snake.svg" alt="Snake animation" />
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
 
-###
+---
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=Ianjake-png&icon=0&color=5"><br><br>
+
+⭐ Thanks for visiting my profile!
+
+🚀 Keep Learning. Keep Coding. Keep Building.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF¢er=true&vCenter=true&width=500&lines=See+you+on+the+next+commit!;Code+%7C+Create+%7C+Animate;Dream+%E2%86%92+Build+%E2%86%92+Achieve+%F0%9F%9A%80"></div>
+
+---
+
+<!-- Animated README by Ian Jake --><!-- Keep learning. Keep coding. Keep building. -->
