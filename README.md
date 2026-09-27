@@ -87,7 +87,7 @@ Learning • Drawing • Animating • Improving
 
 ## 🎮 Gamer Mode: ON
 
-<div align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">⚔️ Mobile Legends Player
+<div align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150">⚔️ Mobile Legends Player
 
 Play • Learn • Improve • Repeat
 
