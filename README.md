@@ -81,8 +81,7 @@ Learning • Drawing • Animating • Improving
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=dracula&no-frame=false&no-bg=true&margin-w=4"></div>
+![](https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
