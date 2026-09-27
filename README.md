@@ -5,8 +5,7 @@
 
 <div align="right" ><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
 
-</div>
-<div height="150">
+
 💫 About Me
 
 Name: Ian Jake A. Sumaylo  
