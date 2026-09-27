@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
 
-## 💫 About Me
+<h1>💫 About Me
 
 **Name:** Ian Jake A. Sumaylo  
 **Role:** Aspiring 2D Animator & Developer  
@@ -12,6 +12,7 @@
 **Address:** Midsalip, ZDS, Philippines
 
 <br clear="right">
+
 --- 
 
 currently:
