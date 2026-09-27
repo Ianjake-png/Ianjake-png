@@ -24,7 +24,8 @@ goal: Become a Professional Developer 🚀
 
 ## 🧑‍💻 What I'm Learning
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,java,python"></p><p align="center">💻 Web Development   •  
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,java,python"></p><p align="center">
+💻 Web Development   •  
 ☕ Java   •  
 🐍 Python   •  
 🎨 2D Animation   •  
