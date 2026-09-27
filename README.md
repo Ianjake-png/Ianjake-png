@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
 
-<h4>💫 About Me</h4>
+<h3>💫 About Me</h3>
 
 **Name:** Ian Jake A. Sumaylo  
 **Role:** Aspiring 2D Animator & Developer  
