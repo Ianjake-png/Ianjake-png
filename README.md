@@ -7,14 +7,16 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150">
 </div>
 
-<h2>💫 About Me</h2>
+<div align="left">
 
-<p align="left">
-<b>Name:</b> Ian Jake A. Sumaylo<br>
-<b>Role:</b> Aspiring 2D Animator & Developer<br>
-<b>Education:</b> BSIS / ACT Student<br>
-<b>Address:</b> Midsalip, ZDS, Philippines
-</p>
+## 💫 About Me
+
+**Name:** Ian Jake A. Sumaylo  
+**Role:** Aspiring 2D Animator & Developer  
+**Education:** BSIS / ACT Student  
+**Address:** Midsalip, ZDS, Philippines
+
+</div>
 
 --- 
 
