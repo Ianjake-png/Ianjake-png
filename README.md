@@ -1,6 +1,6 @@
 ## <div align="center"> 👋 Hi, I'm Ian Jake!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF¢er=true&vCenter=true&width=700&lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Aspiring+Professional+2D+Animator+%26+Developer;BSIS+%2F+ACT+Student;Web+Developer+in+Progress;Future+Professional+Developer;Keep+Learning.+Keep+Coding.+Keep+Building."><br>
 <div align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"></div>
 </div>
 
@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-name: Ian Jake A. Sumaylo
-role: Aspiring 2D Animator & Developer
-education: BSIS / ACT Student
-location: Midsalip, Zamboanga del Sur, Philippines
+name: Ian Jake A. Sumaylo  
+role: Aspiring 2D Animator & Developer  
+education: BSIS / ACT Student  
+location: Midsalip, Zamboanga del Sur, Philippines  
 
 currently:
   - 🎨 Working on 2D animation projects
@@ -114,7 +114,7 @@ Play • Learn • Improve • Repeat
 
 🚀 Keep Learning. Keep Coding. Keep Building.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF¢er=true&vCenter=true&width=500&lines=See+you+on+the+next+commit!;Code+%7C+Create+%7C+Animate;Dream+%E2%86%92+Build+%E2%86%92+Achieve+%F0%9F%9A%80"></div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=See+you+on+the+next+commit!;Code+%7C+Create+%7C+Animate;Dream+%E2%86%92+Build+%E2%86%92+Achieve+%F0%9F%9A%80"></div>
 
 ---
 
