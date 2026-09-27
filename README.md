@@ -30,7 +30,9 @@ goal: Become a Professional Developer 🚀
 
 💻 Web Development • ☕ Java • 🐍 Python • 🎨 2D Animation • 🤖 AI • 🎮 Game Development
 
-</div>---
+</div>
+
+---
 
 🎨 2D Animation
 
@@ -38,7 +40,9 @@ goal: Become a Professional Developer 🚀
 
 Learning • Drawing • Animating • Improving
 
-</div>---
+</div>
+
+---
 
 🌐 Connect With Me
 
@@ -52,13 +56,17 @@ Learning • Drawing • Animating • Improving
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
 </a><a href="mailto:ianjakesumaylo2@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a></div>---
+</a></div>
+
+---
 
 💻 Tech Stack
 
 <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,java,python" alt="Tech Stack"><br><br>
 
-<img src="https://img.shields.io/badge/Currently%20Learning-Web%20Development-00F7FF?style=for-the-badge" alt="Web Development"><img src="https://img.shields.io/badge/Currently%20Learning-Software%20Development-9B59B6?style=for-the-badge" alt="Software Development"></div>---
+<img src="https://img.shields.io/badge/Currently%20Learning-Web%20Development-00F7FF?style=for-the-badge" alt="Web Development"><img src="https://img.shields.io/badge/Currently%20Learning-Software%20Development-9B59B6?style=for-the-badge" alt="Software Development"></div>
+
+---
 
 📊 GitHub Stats
 
@@ -66,11 +74,15 @@ Learning • Drawing • Animating • Improving
 
 <img src="https://streak-stats.demolab.com/?user=Ianjake-png&theme=neon&hide_border=false" alt="GitHub Streak"><br><br>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></div>---
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ianjake-png&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"></div>
+
+---
 
 🏆 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"></div>---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ianjake-png&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"></div>
+
+---
 
 🎮 Gamer Mode: ON
 
@@ -78,11 +90,15 @@ Learning • Drawing • Animating • Improving
 
 Play • Learn • Improve • Repeat
 
-</div>---
+</div>
+
+---
 
 ✍️ Random Dev Quote
 
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></div>---
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"></div>
+
+---
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Ianjake-png&icon=0&color=5" alt="Profile Views"><br><br>
 
@@ -90,6 +106,8 @@ Play • Learn • Improve • Repeat
 
 🚀 Keep Learning. Keep Coding. Keep Building.
 
-<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=See+you+on+the+next+commit!;Code+%7C+Create+%7C+Animate;Dream+%E2%86%92+Build+%E2%86%92+Achieve+%F0%9F%9A%80" alt="Closing animation"></div>---
+<br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=See+you+on+the+next+commit!;Code+%7C+Create+%7C+Animate;Dream+%E2%86%92+Build+%E2%86%92+Achieve+%F0%9F%9A%80" alt="Closing animation"></div>
+
+---
 
 <!-- Animated README by Ian Jake --><!-- Keep learning. Keep coding. Keep building. -->
