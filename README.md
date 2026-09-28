@@ -123,3 +123,47 @@ Play • Learn • Improve • Repeat
 <!-- Animated README by Ian Jake --><!-- Keep learning. Keep coding. Keep building. -->
 
 
+
+<div align="center">
+
+  <!-- Typing SVG Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=HELLO%2C+I'M+JEHIEL;JAVA+DEVELOPER;UI%2FUX+DESIGNER;BUILDING+THE+FUTURE+%E2%9A%A1" alt="Typing SVG" />
+
+  <p align="center">
+    💻 <b>Developer</b> &nbsp;•&nbsp; 🎨 <b>UI/UX Designer</b> &nbsp;•&nbsp; 🚀 <b>Creator</b>
+  </p>
+
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ffff&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+Hi! I'm **Jehiel**, a developer passionate about building creative, clean, and useful digital experiences.
+
+- 💻 **Developer:** Focused on Java and modern Web Development
+- 🎨 **UI/UX Designer:** Crafting clean, intuitive, and modern interfaces
+- 🚀 **Creator:** Turning ideas into functional software
+- 🌱 **Learning:** Continuously refining coding and design skills
+- ⚡ **Goal:** Create impactful and unique applications
+
+---
+
+### 🛠️ What I Do
+
+```java
+public class Jehiel {
+    String role  = "Developer & Designer";
+    String focus = "Java + UI/UX Design";
+    String goal  = "Create something different";
+
+    void code() {
+        System.out.println("Turning ideas into reality 🚀");
+    }
+}
+
+
+
