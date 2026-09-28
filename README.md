@@ -131,7 +131,9 @@ Play • Learn • Improve • Repeat
 
 "Profile Views" (https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ffff&style=flat-square)
 
-</div>---
+</div>
+
+---
 
 🧑‍💻 About Me
 
@@ -160,7 +162,9 @@ public class Jehiel {
 
 🚀 Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=java,html,css,js,github,vscode" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=java,html,css,js,github,vscode" /></div>
+
+---
 
 📊 GitHub Stats
 
