@@ -120,10 +120,6 @@ Play • Learn • Improve • Repeat
 
 ---
 
-<video width="100%" controls>
-<source src="https://cdn.pixabay.com/video/2022/11/09/138306-769163773_large.mp4"/>
-</video>
-
 <!-- Animated README by Ian Jake --><!-- Keep learning. Keep coding. Keep building. -->
 
 
